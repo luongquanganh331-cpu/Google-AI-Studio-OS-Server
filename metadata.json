@@ -1,0 +1,8 @@
+{
+  "name": "Google AI Studio OS Server ",
+  "description": "A futuristic, sleek OS simulation featuring a functional Gemini AI chat, terminal, and desktop environment inspired by the Google AI Studio UI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
